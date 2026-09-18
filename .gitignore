@@ -15,3 +15,5 @@ dist/
 build/
 outputs/*.png
 !outputs/.gitkeep
+
+# results/ is intentionally tracked (RESULTS.md, metrics.json, JSON.shot, plots)

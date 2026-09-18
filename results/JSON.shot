@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-09-18T08:17:18.887281+00:00",
+  "repo": "anishkaranth/ml-learn-06-naive-bayes-scratch",
+  "command": "python naive_bayes_scratch.py",
+  "metrics": {
+    "dataset": "synthetic multi-class Gaussians",
+    "test_accuracy": 0.9333
+  }
+}
